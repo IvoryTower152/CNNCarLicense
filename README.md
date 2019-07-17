@@ -28,8 +28,8 @@
 
 ## 5.数据集下载地址
 
-**百度网盘链接：**https://pan.baidu.com/s/1Hu-h5PIDCqb6c5dshBlqnA 
+百度网盘链接：https://pan.baidu.com/s/1Hu-h5PIDCqb6c5dshBlqnA 
 
-**提取码：**hyl1
+提取码：hyl1
 
 ---
