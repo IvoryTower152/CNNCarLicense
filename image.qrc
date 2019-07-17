@@ -1,0 +1,21 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource>
+   <file>./images/4.jpg</file>
+   <file>./images/39.jpg</file>
+   <file>./images/20.jpg</file>
+   <file>./css/style.css</file>
+   <file>./images/21.jpg</file>
+   <file>./images/25.jpg</file>
+   <file>./images/35.jpg</file>
+   <file>./images/123.jpg</file>
+   <file>./images/51.jpg</file>
+   <file>./images/52.jpg</file>
+   <file>./images/53.jpg</file>
+   <file>./images/54.jpg</file>
+   <file>./images/55.jpg</file>
+   <file>./images/56.jpg</file>
+   <file>./images/50.jpg</file>
+   <file>./images/car.ico</file>
+</qresource>
+</RCC>

@@ -1,0 +1,18 @@
+QPushButton#pushButton{border:2px solid ;background-color:lightgrey;}
+QPushButton#pushButton:hover{background-color:yellow;}
+
+
+QPushButton#pushButton_2{border:2px outset black;background:lightgrey;}
+QPushButton#pushButton_2:hover{background-color:yellow;}
+
+QPushButton#pushButton_3{border:2px solid black;background:lightgrey;}
+QPushButton#pushButton_3:hover{background-color:yellow;}
+QLCDNumber#lcdNumber{color:black; border:0px;font-weight:bold}
+QLineEdit#lineEdit{border:2px solid red;background:rgba(0, 0, 0, 0);}
+QLineEdit#lineEdit_2{border:2px solid red;background:rgba(0, 0, 0, 0);}
+QLineEdit#lineEdit_3{border:2px solid red;background:rgba(0, 0, 0, 0);}
+QLabel#label_2{border:2px solid red;}
+QWidget#centralwidget{background:url("./images/10.jpg") no-repeat fixed top;}
+
+
+
